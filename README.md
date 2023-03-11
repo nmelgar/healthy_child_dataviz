@@ -45,4 +45,4 @@ This chart will display the heights and weights of children in the US at day 366
 
 ## Conclusion
 
-As me
+Many conditions will affect the overall health of children all around the world, parents' race and socioeconomic status; cultural, political and social environments of the country, and others. We can see that those countries in their way to become first-world countries show issues to keep the children healthy, we cannot assume that's the general condition of all the children of those countries since our data isn't large enough, but we can get an approximate.
