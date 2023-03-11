@@ -15,19 +15,31 @@ We have repeated measurements of weights and heights for children from varied mu
 
 HAZ  is the Height in SDS relative to WHO child growth standard. We can consider 0 (zero) to be a normal value. Four random males and females were selected based on the criteria to be "healthy" (near or over 0) or "unhealthy" (far from 0).
 
-![image](https://raw.githubusercontent.com/nmelgar/healthy_child_dataviz/main/results_charts/haz_maled_Data.png)
+![image](https://raw.githubusercontent.com/nmelgar/healthy_child_dataviz/main/images/haz_maled_Data.png)
 
 <hr>
 
 This chart will show the distribution of children's heights of different countries at day 365.
 
-![image](https://raw.githubusercontent.com/nmelgar/healthy_child_dataviz/main/results_charts/height_day365.png)
+![image](https://raw.githubusercontent.com/nmelgar/healthy_child_dataviz/main/images/height_day365.png)
 
 <hr>
 
 WAZ is the Weight in SDS relative to WHO child growth standard. We can consider 0 (zero) to be a normal value. This map will show the Average WAZ in these countries.
 
-![image](ht)
+![image](https://raw.githubusercontent.com/nmelgar/healthy_child_dataviz/main/images/avg_waz_country.png)
+
+<hr>
+
+This chart will display the heights of Dutch children born in 1988-1989. The days will display data each 90 days.
+
+![image](https://raw.githubusercontent.com/nmelgar/healthy_child_dataviz/main/images/dutch_child.png)
+
+<hr>
+
+This chart will display the heights and weights of children in the US at day 366, using  race and socioeconomic status of the mother as criteria.
+
+![image](https://raw.githubusercontent.com/nmelgar/healthy_child_dataviz/main/images/w_h_socioeconomic_race.png)
 
 <hr>
 
